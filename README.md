@@ -2,7 +2,7 @@
 
 This project’s goal is to predict churning customers in the 6 upcoming months, using a real-world transactional dataset.
 
-The scope of the project covers
+The scope of the project covers:
 - an intensive **preprocessing** and **transformation** phase on the raw dataset,
 - defining churn event in a **non-contractual e-commerce setting**,
 - taking various approaches for prediction: I build models using **3 different datasets** while applying a variety of **supervised classification algorithms** accompanied by **unsupervised techniques** to constitute hybrid approaches.
