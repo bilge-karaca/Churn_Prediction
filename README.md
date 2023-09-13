@@ -1,2 +1,5 @@
 # Churn_Prediction
-Data cleaning, EDA, model training
+
+This project’s goal is to predict churning customers in the 6 upcoming months. We use a real-world transactional dataset. The scope of the project covers an **intensive preprocessing and transformation phase on the raw dataset, defining churn event in a non-contractual e-commerce setting and taking various approaches for prediction**. We build models using 3 different datasets while applying a variety of supervised classification algorithms accompanied by unsupervised techniques to constitute hybrid approaches. More precisely, we use **network features** and **time-based features** to create two different datasets. We use **clustering** and **PCA** for hybrid models. The main single predictors that we use are **Logistic Regression, Random Forest, XGBoost, LightGBM and SVM**. Our proposed model, XGB-oversampling, achieves f1-score = 61.46% on time-based-feature-intensive dataset.
+
+Keywords: Churn prediction, classification, tree-based models, network science, customer analytics, non-contractual setting, hybrid model, e-commerce, imbalanced data.
