@@ -13,5 +13,7 @@ The main single predictors are **Logistic Regression, Random Forest, XGBoost, Li
 
 The selected model, XGB-oversampling, achieves f1-score = 61.46% on the test dataset.
 
+--
+
 
 Keywords: Churn prediction, classification, RFM, segmentation, tree-based models, network science, customer analytics, non-contractual setting, hybrid model, e-commerce, imbalanced data.
