@@ -1,8 +1,6 @@
 # Churn_Prediction
 
-This project’s goal is to predict churning customers in the 6 upcoming months. 
-
-I use a real-world transactional dataset. 
+This project’s goal is to predict churning customers in the 6 upcoming months, using a real-world transactional dataset.
 
 The scope of the project covers
 - an intensive **preprocessing** and **transformation** phase on the raw dataset,
